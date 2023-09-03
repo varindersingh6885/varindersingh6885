@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varinder Singh</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **React, JavaScript, TypeScript**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript, Tailwind**
 
 - 📫 Reach me at **varindersingh6885@gmail.com**
 
